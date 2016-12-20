@@ -13,6 +13,7 @@
 				<property name="password" value="123456" />
  
   </dataSource>
+  王才
  </environment>
   </environments>
   <mappers>
