@@ -13,7 +13,7 @@
 				<property name="password" value="123456" />
  
   </dataSource>
-  王才2
+  王才3冲突测试
  </environment>
   </environments>
   <mappers>
